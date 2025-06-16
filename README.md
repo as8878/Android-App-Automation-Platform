@@ -36,15 +36,6 @@ pip install -e .
 
 ---
 
-### 3️⃣ Dataset (Optional)
-
-To experiment with real apps and task data:
-
-* Download the dataset: [DroidTask Dataset](https://drive.google.com/file/d/1HcI3m3tLPaVr4aktvajBFur6zfULV0kh/view?usp=sharing)
-* Follow the dataset folder structure as described in [About Dataset](#about-dataset)
-
----
-
 ### 4️⃣ Configuration
 
 * Add your GPT API key to `tools.py`:
@@ -78,7 +69,7 @@ You can also try the demo scripts provided in the `/scripts` folder.
 
 ---
 
-## 🔬 Research Paper Reffered
+## 🔬 Research Paper Referred
 
 For full system details, please refer to the paper:
 **[Empowering LLM to use Smartphone for Intelligent Task Automation](https://arxiv.org/abs/2308.15272)**
