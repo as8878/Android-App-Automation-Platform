@@ -1,15 +1,5 @@
----
 
 # Android App Automation Platform
-
-A large language model-powered platform for intelligent task automation on Android apps.
-
-This repository implements the system described in the paper:
-**[Empowering LLM to use Smartphone for Intelligent Task Automation](https://arxiv.org/abs/2308.15272)**
-
-The platform leverages language models to automate Android applications by analyzing app screens, parsing UI structures, and executing high-level user-specified tasks via natural language instructions.
-
----
 
 ## 🔧 Features
 
