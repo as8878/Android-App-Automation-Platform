@@ -7,7 +7,7 @@ ACTION_MISSED = None
 
 def get_id_from_view_desc(view_desc):
     '''
-    given a view(UI element), get its ID
+    given a view(UI element), get its ID 
     '''
     return int(re.findall(r'id=(\d+)', view_desc)[0])
     # if view_desc[0] == ' ':

@@ -4,7 +4,7 @@ import hashlib
 from .intent import Intent
 
 
-class App(object):
+class App(object): 
     """
     this class describes an app
     """

@@ -7,9 +7,9 @@ all_state_strs = []
 
 directory = './'
 
-def find_json_files(directory):
+def find_json_files(directory): 
 
-    json_files = []  # 用来存放找到的JSON文件路径
+    json_files = []
     for root, dirs, files in os.walk(directory):
         for file in files:
             if file.endswith('.json'):

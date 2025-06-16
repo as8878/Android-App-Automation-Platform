@@ -5,7 +5,7 @@ from pyvis.network import Network
 
 PATH = "state_2023-10-20_134316.json"
 G = nx.DiGraph()
-with open(PATH, "r") as f:
+with open(PATH, "r") as f: 
     data = json.load(f)
 nodes = data["views"]
 

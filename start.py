@@ -5,7 +5,7 @@ from droidbot import input_manager
 from droidbot import input_policy
 from droidbot import env_manager
 from droidbot import DroidBot
-from droidbot.droidmaster import DroidMaster
+from droidbot.droidmaster import DroidMaster 
 
 
 def parse_args():

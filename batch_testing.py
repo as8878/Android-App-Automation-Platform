@@ -2,7 +2,7 @@ import yaml
 import os
 from argparse import ArgumentParser
 
-import csv
+import csv 
 
 data = []
 # Open the CSV file

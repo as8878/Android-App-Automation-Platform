@@ -13,4 +13,4 @@ clock,apks/com.simplemobiletools.clock_5.10.0-36_minAPI23.apk,output/clock,chang
 app launcher,apks/com.simplemobiletools.applauncher_51.apk,output/applauncher,Take a photo and check it,Turn on the alarm clock at 9am  on weekends,Turn on stopwatch,Record a ten seconds video,Change max reminder duration to 10 minutes,Sort apps by title in descending order,Change text color to blue,Change column count to 3,Change theme color to light,Don't close this app when launching a different one,,,,,,
 camera,apks/com.simplemobiletools.camera_5.6.3-86_minAPI29.apk,output/camera,take a selfie,open the last picture I took,record a short video,rotate right the last picture I took and save it as pic4.jpg,print the last picture I took as pic3.jpg,close the shutter sound,use volume button as shutter,compress the photos by 50%,take a photo and move it to folder 'movies' in SD card,take a photo and add it to favorite,take a short selfie video,take a photo and resize it to 1000:473,take a photo and report its size,take a photo and name it 'sunset',delete the last photo I took,
 ,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,, 

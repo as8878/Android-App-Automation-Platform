@@ -1,6 +1,6 @@
 # set up basic requirements for droidbot
 from setuptools import setup, find_packages, findall
-import os
+import os 
 
 setup(
     name='droidbot',

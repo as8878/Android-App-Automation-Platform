@@ -2,7 +2,7 @@
     "views": {
         "login_email": {
             "resource_id": ".*email",
-            "class": ".*EditText"
+            "class": ".*EditText" 
         },
         "login_password": {
             "resource_id": ".*password",

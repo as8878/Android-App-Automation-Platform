@@ -3,4 +3,4 @@ treelib
 pyyaml
 torch
 InstructorEmbedding
-sentence_transformers
+sentence_transformers 
