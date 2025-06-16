@@ -1,6 +1,6 @@
 
 # Android App Automation Platform
----
+
 ## 🔧 Features
 
 *  End-to-end Android app automation
